@@ -6,6 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Hello world do eclipse luna");
 		//verificando
+		// ao que parece se colocar o endereço de email a master é regeitada
 
 	}
 
